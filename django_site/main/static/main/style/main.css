@@ -1,0 +1,45 @@
+body{
+}
+
+.aside{
+    display: block;
+    position: fixed;
+    width: 200px;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.51);
+    padding: 0 0 0 20px ;
+}
+
+.aside__img{
+    width: 100px;
+    height: 100px;
+}
+
+.aside__title{
+
+}
+
+.aside__navigation{
+
+}
+
+.aside__list{
+
+}
+
+.aside__list :nth-child(1){
+
+}
+.aside__list:nth-child(2){
+
+}
+.aside__list:nth-child(3){
+
+}
+.wrapper{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+
+
